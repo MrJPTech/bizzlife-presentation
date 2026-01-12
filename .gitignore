@@ -33,3 +33,6 @@ npm-debug.log*
 
 # Testing
 coverage/
+
+# Claude temp files
+tmpclaude-*
