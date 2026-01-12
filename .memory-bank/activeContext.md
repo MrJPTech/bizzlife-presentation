@@ -8,6 +8,8 @@
 - [x] Database schema (DATABASE-SCHEMA.sql)
 - [x] Component starter code (9 components)
 - [x] Project proposal document (PROJECT-PROPOSAL.md)
+- [x] Client presentation (BIZZLIFE-PRESENTATION.html)
+- [x] Deployed to production: https://bizz.prsmtechdemos.com
 - [ ] Client review and approval
 - [ ] Project kickoff
 
@@ -32,6 +34,10 @@
 - Timeline: 14 weeks, $50K investment
 - Client connections: FoodGod, Supreme Patty, Charleston White, 2K Baby
 - Partner venues: Varsity Tavern, Rodeo Ranch, The Sterling
+
+## Live URLs
+- **Presentation**: https://bizz.prsmtechdemos.com
+- **GitHub**: https://github.com/MrJPTech/bizzlife-presentation
 
 ---
 **Usage**: Update at end of each session with current status
